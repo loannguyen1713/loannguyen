@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{D5F2AF2E-BADF-483C-AB3E-DE7F0B6FBB55}" version="15.0">
+	<children>
+		<child name="thetestingapi" key="{8E790EEC-B761-4419-9AB9-6681999ECC61}" type="SoapUI Test" typeId="{3AE7D26E-11DE-411F-A26E-9C422F421771}" pluginName="ReadyAPI Runner" path="thetestingapi\thetestingapi.tcSoapUINGTest" />
+		<child name="petshop" key="{62D2A143-897C-42C7-8849-319D6552152B}" type="SoapUI Test" typeId="{3AE7D26E-11DE-411F-A26E-9C422F421771}" pluginName="ReadyAPI Runner" path="petshop\petshop.tcSoapUINGTest" />
+	</children>
+</Root>

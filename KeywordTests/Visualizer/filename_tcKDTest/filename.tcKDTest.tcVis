@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{2C3C9780-D078-4712-A1C0-E184A4C18668}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="44664.4275694444" objectName="Aliases.Orders.MainForm" objectLeft="0" objectTop="0" objectRight="912" objectBottom="612" clickPointX="-506" clickPointY="-206" imageFileName="tcvi272959937188283.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44664.4277199074" objectName="Aliases.Orders.dlgSaveAs.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox" objectLeft="204" objectTop="554" objectRight="911" objectBottom="580" clickPointX="-518" clickPointY="-251" imageFileName="tcvi2729731401882815.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
