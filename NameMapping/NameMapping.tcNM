@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{67F84200-F27B-4759-9B4B-57A6AD32C3B0}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ReadyAPI" Key="{8C8F8D24-DB98-4A4A-ABFD-DC96DBC14101}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ReadyAPI" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Frame" Key="{602D0E65-B280-4C8E-9BFB-E4D283CDA3F8}">
+								<Image FileName="917525310" Left="-11" Top="-11" Right="1931" Bottom="1051" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="javax.swing.JFrame" />
+									</Property>
+									<Property Name="AWTComponentAccessibleName">
+										<Value Value="ReadyAPI 3.30.0 - Projects" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="RootPane" Key="{FCEEF374-DF5D-4C83-8361-B30A93BB1D5D}">
+										<Image FileName="917525310" Left="0" Top="34" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javax.swing.JRootPane" />
+											</Property>
+											<Property Name="AWTComponentAccessibleName">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="null_layeredPane" Key="{500CD19A-E37C-4C58-A6BA-7B069476EE5C}">
+												<Image FileName="917525310" Left="0" Top="34" Right="1920" Bottom="1040" />
+												<Properties>
+													<Property Name="AWTComponentName">
+														<Value Value="null.layeredPane" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Layer" Key="{041E57F8-E957-4B59-B05E-122B9A4603EE}">
+														<Image FileName="917525310" Left="0" Top="60" Right="1920" Bottom="1040" />
+														<Properties>
+															<Property Name="JavaFullClassName">
+																<Value Value="javax.swing.JLayer" />
+															</Property>
+															<Property Name="AWTComponentAccessibleName">
+																<Value Value="" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Panel" Key="{A944E6B7-9D57-43ED-892E-84DB645EE50E}">
+																<Image FileName="917525310" Left="0" Top="60" Right="1920" Bottom="1040" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="javax.swing.JPanel" />
+																	</Property>
+																	<Property Name="AWTComponentAccessibleName">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ReadyApiSplitPane" Key="{87B056E2-7FA1-4EA5-9CD4-5590FD858148}">
+																		<Image FileName="917525310" Left="0" Top="100" Right="1920" Bottom="1012" />
+																		<Properties>
+																			<Property Name="JavaFullClassName">
+																				<Value Value="com.eviware.soapui.support.swing.splitpane.ReadyApiSplitPane" />
+																			</Property>
+																			<Property Name="AWTComponentAccessibleName">
+																				<Value Value="" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Panel" Key="{A188E4A2-4DB5-41CF-9474-E91C2D88FB7B}">
+																				<Image FileName="917525310" Left="0" Top="100" Right="1920" Bottom="1012" />
+																				<Properties>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="javax.swing.JPanel" />
+																					</Property>
+																					<Property Name="AWTComponentAccessibleName">
+																						<Value Value="" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Panel" Key="{D371EB34-D4E4-42D2-848F-BB62E41EF0DC}">
+																						<Image FileName="917525310" Left="0" Top="100" Right="1920" Bottom="1012" />
+																						<Properties>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="javax.swing.JPanel" />
+																							</Property>
+																							<Property Name="AWTComponentAccessibleName">
+																								<Value Value="" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ClassicModulePanel" Key="{F643DC42-0F35-45E9-BD51-CBF28DC674BD}">
+																								<Image FileName="917525310" Left="0" Top="100" Right="1920" Bottom="1011" />
+																								<Properties>
+																									<Property Name="JavaFullClassName">
+																										<Value Value="com.eviware.soapui.ready.ClassicModulePanel" />
+																									</Property>
+																									<Property Name="AWTComponentAccessibleName">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ReadyApiSplitPane" Key="{E9CA7967-D31A-4E5E-B7E4-D4BD87020C51}">
+																										<Image FileName="917525310" Left="0" Top="100" Right="1920" Bottom="1011" />
+																										<Properties>
+																											<Property Name="JavaFullClassName">
+																												<Value Value="com.eviware.soapui.support.swing.splitpane.ReadyApiSplitPane" />
+																											</Property>
+																											<Property Name="AWTComponentAccessibleName">
+																												<Value Value="" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="ExpandableSplitPanel" Key="{69A52804-4043-4071-8759-F75D7BC0A3CA}">
+																												<Image FileName="-770766945" Left="0" Top="100" Right="268" Bottom="1011" />
+																												<Properties>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="com.eviware.soapui.support.components.ExpandableSplitPanel" />
+																													</Property>
+																													<Property Name="AWTComponentAccessibleName">
+																														<Value Value="" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="navigator" Key="{A17644A3-69EA-441A-8177-C2DC4AC1C50D}">
+																														<Image FileName="-770766945" Left="0" Top="100" Right="268" Bottom="655" />
+																														<Properties>
+																															<Property Name="AWTComponentName">
+																																<Value Value="navigator" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="Panel" Key="{862F89F8-8F70-48A8-92C4-62CD9A09E99C}">
+																																<Image FileName="-770766945" Left="1" Top="166" Right="267" Bottom="654" />
+																																<Properties>
+																																	<Property Name="JavaFullClassName">
+																																		<Value Value="javax.swing.JPanel" />
+																																	</Property>
+																																	<Property Name="AWTComponentAccessibleName">
+																																		<Value Value="" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="CommonJScrollPane" Key="{65854D68-4B3F-4E2F-95E8-674498126189}">
+																																		<Image FileName="-770766945" Left="1" Top="166" Right="267" Bottom="654" />
+																																		<Properties>
+																																			<Property Name="JavaFullClassName">
+																																				<Value Value="com.eviware.soapui.support.CommonJScrollPane" />
+																																			</Property>
+																																			<Property Name="AWTComponentAccessibleName">
+																																				<Value Value="" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="Viewport" Key="{129FC3B5-CB46-4650-964F-708CD1DF3B3C}">
+																																				<Image FileName="-770766945" Left="1" Top="166" Right="267" Bottom="646" />
+																																				<Properties>
+																																					<Property Name="JavaFullClassName">
+																																						<Value Value="javax.swing.JViewport" />
+																																					</Property>
+																																					<Property Name="AWTComponentAccessibleName">
+																																						<Value Value="" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="SearchableNavigatorTree" Key="{6C1D4CDD-11A0-4BA1-9BFA-9328C78ECC67}">
+																																						<Image FileName="-770766945" Left="1" Top="166" Right="269" Bottom="646" />
+																																						<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																																						<Properties>
+																																							<Property Name="JavaFullClassName">
+																																								<Value Value="com.eviware.soapui.ui.SearchableNavigatorTree" />
+																																							</Property>
+																																							<Property Name="AWTComponentAccessibleName">
+																																								<Value Value="" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="Panel" Key="{8C42A9A0-68BF-4B08-9222-780027F372F5}">
+																												<Image FileName="917525310" Left="273" Top="100" Right="1920" Bottom="1011" />
+																												<Properties>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="javax.swing.JPanel" />
+																													</Property>
+																													<Property Name="AWTComponentAccessibleName">
+																														<Value Value="" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="Panel" Key="{BFE36AB9-A53B-4AB2-AA43-5962A8A3730D}">
+																														<Image FileName="-891661104" Left="273" Top="141" Right="1920" Bottom="1011" />
+																														<Properties>
+																															<Property Name="JavaFullClassName">
+																																<Value Value="javax.swing.JPanel" />
+																															</Property>
+																															<Property Name="AWTComponentAccessibleName">
+																																<Value Value="" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="ReadyApiSplitPane" Key="{E8CC2873-00ED-434D-98FE-97C718842C90}">
+																																<Image FileName="-891661104" Left="273" Top="141" Right="1920" Bottom="1011" />
+																																<Properties>
+																																	<Property Name="JavaFullClassName">
+																																		<Value Value="com.eviware.soapui.support.swing.splitpane.ReadyApiSplitPane" />
+																																	</Property>
+																																	<Property Name="AWTComponentAccessibleName">
+																																		<Value Value="" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Panel" Key="{35115FE7-3359-4590-A0F2-C35F801DB056}">
+																																		<Image FileName="-891661104" Left="273" Top="141" Right="1920" Bottom="1011" />
+																																		<Properties>
+																																			<Property Name="JavaFullClassName">
+																																				<Value Value="javax.swing.JPanel" />
+																																			</Property>
+																																			<Property Name="AWTComponentAccessibleName">
+																																				<Value Value="" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="ProRestTestRequestDesktopPanel" Key="{D33FAF9A-2DBA-4FB5-A8DF-F82133AF6C78}">
+																																				<Image FileName="-891661104" Left="273" Top="141" Right="1919" Bottom="1011" />
+																																				<Properties>
+																																					<Property Name="JavaFullClassName">
+																																						<Value Value="com.eviware.soapui.impl.wsdl.panels.teststeps.ProRestTestRequestDesktopPanel" />
+																																					</Property>
+																																					<Property Name="AWTComponentAccessibleName">
+																																						<Value Value="" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="headerPanel" Key="{5BF30D4D-6D17-455F-B523-B1B139B39A78}">
+																																						<Image FileName="-891661104" Left="273" Top="141" Right="1919" Bottom="238" />
+																																						<Properties>
+																																							<Property Name="AWTComponentName">
+																																								<Value Value="headerPanel" />
+																																							</Property>
+																																						</Properties>
+																																						<Children>
+																																							<Child Name="editorToolbar" Key="{0837B356-6CEA-400E-9AB2-02E606E57263}">
+																																								<Image FileName="-891661104" Left="282" Top="182" Right="1911" Bottom="230" />
+																																								<Properties>
+																																									<Property Name="AWTComponentName">
+																																										<Value Value="editorToolbar" />
+																																									</Property>
+																																								</Properties>
+																																								<Children>
+																																									<Child Name="runButton" Key="{D59EE785-DD03-433F-9E43-14D9321BB7C8}">
+																																										<Image FileName="-891661104" Left="1736" Top="202" Right="1805" Bottom="230" />
+																																										<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																																										<Properties>
+																																											<Property Name="AWTComponentName">
+																																												<Value Value="runButton" />
+																																											</Property>
+																																										</Properties>
+																																									</Child>
+																																								</Children>
+																																							</Child>
+																																						</Children>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="ReadyApiToolbarBuilder_2" Key="{ED730C3B-6CB5-460B-9C89-07297BD94DEA}">
+																														<Image FileName="948564655" Left="273" Top="100" Right="1920" Bottom="141" />
+																														<Properties>
+																															<Property Name="JavaFullClassName">
+																																<Value Value="com.smartbear.ready.ui.toolbar.ReadyApiToolbarBuilder$2" />
+																															</Property>
+																															<Property Name="AWTComponentAccessibleName">
+																																<Value Value="" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="ToolbarButtonWrapper" Key="{16901ACC-19E7-497C-B774-5AEC91F9EA7A}">
+																																<Image FileName="917525310" Left="347" Top="100" Right="410" Bottom="140" />
+																																<Properties>
+																																	<Property Name="JavaFullClassName">
+																																		<Value Value="com.smartbear.soapui.ui.components.toolbar.ToolbarButtonWrapper" />
+																																	</Property>
+																																	<Property Name="AWTComponentAccessibleName">
+																																		<Value Value="" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Run" Key="{563929CF-409A-4F48-B629-29245568C9D6}">
+																																		<Image FileName="917525310" Left="347" Top="104" Right="410" Bottom="136" />
+																																		<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																																		<Properties>
+																																			<Property Name="AWTComponentName">
+																																				<Value Value="Run" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="CommonUiBuilder_TopBar" Key="{C3B036F9-28D6-43EC-97AA-7DD0B776297A}">
+																		<Image FileName="1781501245" Left="0" Top="60" Right="1920" Bottom="100" />
+																		<Properties>
+																			<Property Name="JavaFullClassName">
+																				<Value Value="com.smartbear.ready.ui.swing.CommonUiBuilder$TopBar" />
+																			</Property>
+																			<Property Name="AWTComponentAccessibleName">
+																				<Value Value="" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Panel" Key="{5C52B96A-5359-4C6C-8E8E-0E204B751B60}">
+																				<Image FileName="1781501245" Left="0" Top="60" Right="1920" Bottom="100" />
+																				<Properties>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="javax.swing.JPanel" />
+																					</Property>
+																					<Property Name="AWTComponentAccessibleName">
+																						<Value Value="" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Panel" Key="{37E9E0A7-E407-4372-979F-61E8819CC835}">
+																						<Image FileName="1781501245" Left="1745" Top="60" Right="1920" Bottom="100" />
+																						<Properties>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="javax.swing.JPanel" />
+																							</Property>
+																							<Property Name="AWTComponentAccessibleName">
+																								<Value Value="" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Button" Key="{69AE2710-1755-4E43-B6F2-30F12297B05E}">
+																								<Image FileName="1781501245" Left="1745" Top="66" Right="1880" Bottom="94" />
+																								<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																								<Properties>
+																									<Property Name="JavaFullClassName">
+																										<Value Value="com.smartbear.soapui.ui.components.Button" />
+																									</Property>
+																									<Property Name="AWTComponentAccessibleName">
+																										<Value Value="Endpoint Explorer" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Dialog" Key="{BBEDE549-CC50-4804-86B2-A9626FF7902D}">
+								<Image FileName="-1681889774" Left="0" Top="0" Right="860" Bottom="435" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="javax.swing.JDialog" />
+									</Property>
+									<Property Name="AWTComponentAccessibleName">
+										<Value Value="Endpoint Explorer" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="RootPane" Key="{75875E59-5D23-479B-A02A-6DAEF47FC22B}">
+										<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javax.swing.JRootPane" />
+											</Property>
+											<Property Name="AWTComponentAccessibleName">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="null_layeredPane" Key="{9F5FB363-C965-4343-B4E5-EED40D905AC3}">
+												<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+												<Properties>
+													<Property Name="AWTComponentName">
+														<Value Value="null.layeredPane" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="null_contentPane" Key="{EE87E0C4-B68C-4C88-A378-390001ED01DB}">
+														<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+														<Properties>
+															<Property Name="AWTComponentName">
+																<Value Value="null.contentPane" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Panel" Key="{C3A08F32-E8AF-4F08-8D70-C8E7B93EF6D1}">
+																<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="javax.swing.JPanel" />
+																	</Property>
+																	<Property Name="AWTComponentAccessibleName">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="BrowserView" Key="{4FBD8ED0-5CD9-41FB-B50D-15741D0065DD}">
+																		<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+																		<Properties>
+																			<Property Name="JavaFullClassName">
+																				<Value Value="com.teamdev.jxbrowser.view.swing.BrowserView" />
+																			</Property>
+																			<Property Name="AWTComponentAccessibleName">
+																				<Value Value="" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Graphics2dRenderWidget" Key="{52F72837-884A-431E-A485-E55123CC46EC}">
+																				<Image FileName="-1681889774" Left="11" Top="45" Right="849" Bottom="424" />
+																				<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																				<Properties>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="com.teamdev.jxbrowser.view.swing.internal.Graphics2dRenderWidget" />
+																					</Property>
+																					<Property Name="AWTComponentAccessibleName">
+																						<Value Value="" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="WizardDialog" Key="{AEA0D3AA-F02A-4FA9-88F4-302B2979AD54}">
+								<Image FileName="1316033865" Left="0" Top="0" Right="960" Bottom="700" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="com.smartbear.ready.ui.WizardDialog" />
+									</Property>
+									<Property Name="AWTComponentAccessibleName">
+										<Value Value="New Functional Test" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="RootPane" Key="{96264459-65C7-48F4-B51E-7427AFE4DDE0}">
+										<Image FileName="1316033865" Left="3" Top="37" Right="957" Bottom="697" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javax.swing.JRootPane" />
+											</Property>
+											<Property Name="AWTComponentAccessibleName">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="null_layeredPane" Key="{75ADC24D-6897-456B-8980-61EB2B4A8D56}">
+												<Image FileName="1316033865" Left="3" Top="37" Right="957" Bottom="697" />
+												<Properties>
+													<Property Name="AWTComponentName">
+														<Value Value="null.layeredPane" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="null_contentPane" Key="{83CBBF90-26A7-4962-846D-9435E9BFE6EC}">
+														<Image FileName="1316033865" Left="3" Top="37" Right="957" Bottom="697" />
+														<Properties>
+															<Property Name="AWTComponentName">
+																<Value Value="null.contentPane" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Panel" Key="{C395669B-07E0-4C50-899D-8D46196F9C73}">
+																<Image FileName="1316033865" Left="3" Top="37" Right="957" Bottom="697" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="javax.swing.JPanel" />
+																	</Property>
+																	<Property Name="AWTComponentAccessibleName">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Panel" Key="{C04D749A-22EF-490F-9313-2A944698956E}">
+																		<Image FileName="1316033865" Left="3" Top="37" Right="957" Bottom="644" />
+																		<Properties>
+																			<Property Name="JavaFullClassName">
+																				<Value Value="javax.swing.JPanel" />
+																			</Property>
+																			<Property Name="AWTComponentAccessibleName">
+																				<Value Value="" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Panel" Key="{B30723DF-E5CA-445F-A654-74F7BFA8D5F1}">
+																				<Image FileName="1316033865" Left="3" Top="171" Right="957" Bottom="620" />
+																				<Properties>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="javax.swing.JPanel" />
+																					</Property>
+																					<Property Name="AWTComponentAccessibleName">
+																						<Value Value="" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="SelectProjectPanel" Key="{DAAA8772-DA9C-4FB0-8539-B3310E594B2C}">
+																						<Image FileName="1316033865" Left="3" Top="171" Right="957" Bottom="620" />
+																						<Properties>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="com.eviware.soapui.ui.readydialog.wizardpanels.SelectProjectPanel" />
+																							</Property>
+																							<Property Name="AWTComponentAccessibleName">
+																								<Value Value="" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Panel" Key="{2BF652C2-D099-468A-822F-DD3CBB427DBA}">
+																								<Image FileName="1316033865" Left="3" Top="171" Right="957" Bottom="620" />
+																								<Properties>
+																									<Property Name="JavaFullClassName">
+																										<Value Value="javax.swing.JPanel" />
+																									</Property>
+																									<Property Name="AWTComponentAccessibleName">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Panel" Key="{5642487C-8091-4904-B5E8-A71D7B1EA684}">
+																										<Image FileName="1316033865" Left="3" Top="171" Right="957" Bottom="620" />
+																										<Properties>
+																											<Property Name="JavaFullClassName">
+																												<Value Value="javax.swing.JPanel" />
+																											</Property>
+																											<Property Name="AWTComponentAccessibleName">
+																												<Value Value="" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="ComboBox" Key="{6BEDB5D4-59BE-4A1F-9CB0-CE55BB7CE67F}">
+																												<Image FileName="1316033865" Left="19" Top="212" Right="456" Bottom="236" />
+																												<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																												<Properties>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="com.smartbear.soapui.ui.components.combobox.ComboBox" />
+																													</Property>
+																													<Property Name="AWTComponentAccessibleName">
+																														<Value Value="" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Button" Key="{9E66C200-5302-4F82-940B-1568ADB35E95}">
+																						<Image FileName="-991431601" Left="789" Top="657" Right="853" Bottom="685" />
+																						<TypeInfo Item0="{1973EC26-0492-4E99-9BAB-4077EAD76D88}" />
+																						<Properties>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="com.smartbear.soapui.ui.components.Button" />
+																							</Property>
+																							<Property Name="AWTComponentAccessibleName">
+																								<Value Value="Next" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="AssertionsPanel" Key="{CECF897B-01DF-42BE-900D-383AFDC609AD}">
+																						<Image FileName="-1771260747" Left="3" Top="171" Right="957" Bottom="620" />
+																						<Properties>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="com.eviware.soapui.ui.readydialog.wizardpanels.AssertionsPanel" />
+																							</Property>
+																							<Property Name="AWTComponentAccessibleName">
+																								<Value Value="" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Panel" Key="{BA543BCA-E5F5-4CDD-8C76-140CAC671709}">
+																								<Image FileName="-1771260747" Left="3" Top="171" Right="957" Bottom="620" />
+																								<Properties>
+																									<Property Name="JavaFullClassName">
+																										<Value Value="javax.swing.JPanel" />
+																									</Property>
+																									<Property Name="AWTComponentAccessibleName">
+																										<Value Value="" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Panel" Key="{2D78FAFA-2FAF-4882-92B9-234FB30A3D3A}">
+																										<Image FileName="-1771260747" Left="43" Top="191" Right="917" Bottom="620" />
+																										<Properties>
+																											<Property Name="JavaFullClassName">
+																												<Value Value="javax.swing.JPanel" />
+																											</Property>
+																											<Property Name="AWTComponentAccessibleName">
+																												<Value Value="" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Panel" Key="{AC6C72DA-FFCD-479F-9D47-64AA1CAFD708}">
+																												<Image FileName="-1771260747" Left="43" Top="191" Right="917" Bottom="620" />
+																												<Properties>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="javax.swing.JPanel" />
+																													</Property>
+																													<Property Name="AWTComponentAccessibleName">
+																														<Value Value="" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="Panel" Key="{481CB056-6F48-416C-ABD1-293D814E6B1B}">
+																														<Image FileName="-1771260747" Left="59" Top="191" Right="909" Bottom="409" />
+																														<Properties>
+																															<Property Name="JavaFullClassName">
+																																<Value Value="javax.swing.JPanel" />
+																															</Property>
+																															<Property Name="AWTComponentAccessibleName">
+																																<Value Value="" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="Panel" Key="{1774D1C8-DF2F-47B3-8E4C-F21212C88743}">
+																																<Image FileName="-1771260747" Left="59" Top="333" Right="909" Bottom="409" />
+																																<Properties>
+																																	<Property Name="JavaFullClassName">
+																																		<Value Value="javax.swing.JPanel" />
+																																	</Property>
+																																	<Property Name="AWTComponentAccessibleName">
+																																		<Value Value="" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="CheckBox" Key="{C84ED539-1DF8-4C6D-9B8C-84FDE5407AAA}">
+																																		<Image FileName="-1771260747" Left="76" Top="350" Right="892" Bottom="368" />
+																																		<TypeInfo Item0="{8C600A0B-6005-483F-B345-D4F3251607F4}" />
+																																		<Properties>
+																																			<Property Name="JavaFullClassName">
+																																				<Value Value="javax.swing.JCheckBox" />
+																																			</Property>
+																																			<Property Name="AWTComponentAccessibleName">
+																																				<Value Value="Response SLA Assertion" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="SingleTestCaseRunOrDataSourceDialog" Key="{99567B7C-5850-4A0B-8B3C-F0B1CD5A6D02}">
+								<Image FileName="1984111786" Left="0" Top="0" Right="564" Bottom="342" />
+								<TypeInfo Item0="{BF54311D-2900-4350-BD0A-808D8EE41ED3}" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="com.eviware.soapui.ui.readydialog.SingleTestCaseRunOrDataSourceDialog" />
+									</Property>
+									<Property Name="AWTComponentAccessibleName">
+										<Value Value="Confirmation" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Orders" Key="{D68552B5-74C8-464B-8378-7A71782F1F9A}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Orders" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="MainForm" Key="{E2D815E1-9F5E-441D-B9E9-461ED49151B1}">
+								<Image FileName="2049527236" Left="0" Top="0" Right="912" Bottom="612" />
+								<TypeInfo Item0="{BF54311D-2900-4350-BD0A-808D8EE41ED3}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="MainForm" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="OrderForm" Key="{4FC046FD-CDEF-430A-B2A0-A7A0E17BA2A6}">
+								<Image FileName="-854757472" Left="0" Top="0" Right="732" Bottom="717" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="OrderForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Group" Key="{1E6C0F32-5BE4-4272-BEDE-1B18F9226FC0}">
+										<Image FileName="-854757472" Left="17" Top="51" Right="713" Bottom="651" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="Group" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Customer" Key="{9DD57E92-EC78-439A-9462-BAB7DF2280AD}">
+												<Image FileName="-854757472" Left="173" Top="291" Right="701" Bottom="321" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Customer" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Street" Key="{9F43DE3F-2D5A-48E9-B0AF-D27C81FF095A}">
+												<Image FileName="-887406937" Left="173" Top="339" Right="365" Bottom="369" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Street" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="City" Key="{D8ED6232-C32C-4B59-9BF1-3B39CC479A71}">
+												<Image FileName="-1513490561" Left="509" Top="339" Right="701" Bottom="369" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="City" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="State" Key="{04C80D38-FBFE-4663-8A7E-F9F8D51A4D56}">
+												<Image FileName="993261402" Left="173" Top="387" Right="365" Bottom="417" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="State" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Zip" Key="{5AF6F889-FF00-4974-B05E-14DDCAE4771F}">
+												<Image FileName="-573239258" Left="509" Top="387" Right="701" Bottom="417" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Zip" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="CardNo" Key="{6BF27099-1992-4A38-9644-5B61B57AAE37}">
+												<Image FileName="-145610477" Left="173" Top="555" Right="701" Bottom="585" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="CardNo" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="ProductNames" Key="{E9EFD1D1-12CF-44A4-BDCC-B045509F8683}">
+												<Image FileName="1442176077" Left="112" Top="75" Right="700" Bottom="107" />
+												<TypeInfo Item0="{785A32FD-662E-44FA-821C-3DEA7C7A710A}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ProductNames" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Quantity" Key="{BD28ED5E-0DE3-4269-8698-614CFFE3E5F1}">
+												<Image FileName="561491295" Left="112" Top="123" Right="196" Bottom="153" />
+												<TypeInfo Item0="{4C5D97A0-EC58-4054-B19A-970A612C8BE4}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Quantity" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Price" Key="{749779C0-B313-4003-BA3C-1837990E60B2}">
+												<Image FileName="163880305" Left="352" Top="123" Right="472" Bottom="153" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Price" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Discount" Key="{11C48021-A117-4E99-B0CC-1C80C2B625FB}">
+												<Image FileName="-872403449" Left="580" Top="123" Right="700" Bottom="153" />
+												<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Discount" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Date" Key="{C3BD7441-1E5F-43F6-AD7C-9D74A7AF0B4E}">
+												<Image FileName="1584618885" Left="172" Top="243" Right="364" Bottom="273" />
+												<TypeInfo Item0="{E3FE5D18-3DAC-4F20-A4A7-72F285989A0B}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Date" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="MasterCard" Key="{BBF69BC9-8341-4D7B-AB62-0C72C26E58F4}">
+												<Image FileName="1691333612" Left="172" Top="471" Right="364" Bottom="507" />
+												<TypeInfo Item0="{C19B5073-A773-4B17-BCDF-D8DDA94F26FE}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="MasterCard" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="ExpDate" Key="{298215DF-4E7E-4708-AB9C-540F8B9C2247}">
+												<Image FileName="-147038596" Left="172" Top="603" Right="364" Bottom="633" />
+												<TypeInfo Item0="{E3FE5D18-3DAC-4F20-A4A7-72F285989A0B}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="ExpDate" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="ButtonOK" Key="{2EC6766D-9CC3-4813-A4C1-DB2118610696}">
+										<Image FileName="1511068546" Left="485" Top="663" Right="593" Bottom="699" />
+										<TypeInfo Item0="{C19B5073-A773-4B17-BCDF-D8DDA94F26FE}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="ButtonOK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgConfirmation" Key="{39D3A54D-ADD8-4D7B-A57F-67A4A1DFBDFF}">
+								<Image FileName="-2129149757" Left="0" Top="0" Right="435" Bottom="224" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Confirmation" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnNo" Key="{9B91A154-9137-4152-A5B5-31681EC6FA96}">
+										<Image FileName="-2129149757" Left="170" Top="171" Right="283" Bottom="206" />
+										<TypeInfo Item0="{C19B5073-A773-4B17-BCDF-D8DDA94F26FE}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSaveAs" Key="{51137E07-828A-4CFB-922D-1E29A6B56772}">
+								<Image FileName="1665343924" Left="0" Top="0" Right="960" Bottom="720" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Save As" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnSave" Key="{7389A2D7-AB34-4FEA-938A-D4586BE2467B}">
+										<Image FileName="-2129749986" Left="641" Top="651" Right="773" Bottom="690" />
+										<TypeInfo Item0="{C19B5073-A773-4B17-BCDF-D8DDA94F26FE}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Save" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DUIViewWndClassName" Key="{8F2FEC9A-F88A-433D-A650-033963256B35}">
+										<Image FileName="-1217676946" Left="12" Top="110" Right="948" Bottom="631" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Explorer_Pane" Key="{14590068-E7F6-4E88-91FF-5F9EC0CEE71F}">
+												<Image FileName="-1217676946" Left="12" Top="110" Right="948" Bottom="631" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="DirectUI" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="HWNDView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Explorer_Pane" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FloatNotifySink" Key="{003CCA98-EA01-4353-8C08-AA9E0FCECF9D}">
+														<Image FileName="-45200777" Left="200" Top="549" Right="941" Bottom="584" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="FloatNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ComboBox" Key="{819D72B9-3A5A-464B-A948-E651E0BE5327}">
+																<Image FileName="-45200777" Left="200" Top="549" Right="941" Bottom="584" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="ComboBox" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Edit" Key="{C68AE330-A4A5-4E6F-B4CD-99EF79BA0E48}">
+																		<Image FileName="-45200777" Left="204" Top="554" Right="911" Bottom="580" />
+																		<TypeInfo Item0="{B27FBFAC-CAF7-4EE8-9CD3-108FA6605832}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Edit" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgConfirmSaveAs" Key="{7A6295DD-5AD4-485A-9850-B00D07B44268}">
+								<Image FileName="-1332663963" Left="0" Top="0" Right="549" Bottom="195" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Confirm Save As" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Confirm_Save_As" Key="{FA1C1025-74D6-43C1-9F0B-C4B10ABE070C}">
+										<Image FileName="-1332663963" Left="5" Top="39" Right="545" Bottom="191" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="DirectUI" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="TaskDialog" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Confirm_Save_As" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CtrlNotifySink" Key="{C04EB3BD-6048-4F53-8E2B-B628415930BA}">
+												<Image FileName="-1332663963" Left="317" Top="142" Right="419" Bottom="177" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CtrlNotifySink" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="7" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btnYes" Key="{423EB26D-57B7-4CD5-8D76-3D1CB15FDB6E}">
+														<Image FileName="-1332663963" Left="317" Top="142" Right="419" Bottom="177" />
+														<TypeInfo Item0="{C19B5073-A773-4B17-BCDF-D8DDA94F26FE}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="&amp;Yes" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndWindowsForms10Window8app0141b42ar8ad1" Key="{5291410C-DECD-4D97-BBD0-64B97AE962A0}">
+								<TypeInfo Item0="{BF54311D-2900-4350-BD0A-808D8EE41ED3}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="WindowsForms10.Window.8.app.0.141b42a_r8_ad1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ReadyAPI" Owner="{8C8F8D24-DB98-4A4A-ABFD-DC96DBC14101}">
+			<Child Name="Frame" Owner="{602D0E65-B280-4C8E-9BFB-E4D283CDA3F8}">
+				<Child Name="RootPane" Owner="{FCEEF374-DF5D-4C83-8361-B30A93BB1D5D}">
+					<Child Name="null_layeredPane" Owner="{500CD19A-E37C-4C58-A6BA-7B069476EE5C}">
+						<Child Name="Layer" Owner="{041E57F8-E957-4B59-B05E-122B9A4603EE}">
+							<Child Name="Panel" Owner="{A944E6B7-9D57-43ED-892E-84DB645EE50E}">
+								<Child Name="ReadyApiSplitPane" Owner="{87B056E2-7FA1-4EA5-9CD4-5590FD858148}">
+									<Child Name="Panel" Owner="{A188E4A2-4DB5-41CF-9474-E91C2D88FB7B}">
+										<Child Name="Panel" Owner="{D371EB34-D4E4-42D2-848F-BB62E41EF0DC}">
+											<Child Name="ClassicModulePanel" Owner="{F643DC42-0F35-45E9-BD51-CBF28DC674BD}">
+												<Child Name="ReadyApiSplitPane" Owner="{E9CA7967-D31A-4E5E-B7E4-D4BD87020C51}">
+													<Child Name="ExpandableSplitPanel" Owner="{69A52804-4043-4071-8759-F75D7BC0A3CA}">
+														<Child Name="navigator" Owner="{A17644A3-69EA-441A-8177-C2DC4AC1C50D}">
+															<Child Name="Panel" Owner="{862F89F8-8F70-48A8-92C4-62CD9A09E99C}">
+																<Child Name="CommonJScrollPane" Owner="{65854D68-4B3F-4E2F-95E8-674498126189}">
+																	<Child Name="Viewport" Owner="{129FC3B5-CB46-4650-964F-708CD1DF3B3C}">
+																		<Child Name="SearchableNavigatorTree" Owner="{6C1D4CDD-11A0-4BA1-9BFA-9328C78ECC67}" />
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+													<Child Name="Panel" Owner="{8C42A9A0-68BF-4B08-9222-780027F372F5}">
+														<Child Name="Panel" Owner="{BFE36AB9-A53B-4AB2-AA43-5962A8A3730D}">
+															<Child Name="ReadyApiSplitPane" Owner="{E8CC2873-00ED-434D-98FE-97C718842C90}">
+																<Child Name="Panel" Owner="{35115FE7-3359-4590-A0F2-C35F801DB056}">
+																	<Child Name="ProRestTestRequestDesktopPanel" Owner="{D33FAF9A-2DBA-4FB5-A8DF-F82133AF6C78}">
+																		<Child Name="headerPanel" Owner="{5BF30D4D-6D17-455F-B523-B1B139B39A78}">
+																			<Child Name="editorToolbar" Owner="{0837B356-6CEA-400E-9AB2-02E606E57263}">
+																				<Child Name="runButton" Owner="{D59EE785-DD03-433F-9E43-14D9321BB7C8}" />
+																			</Child>
+																		</Child>
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+														<Child Name="ReadyApiToolbarBuilder_2" Owner="{ED730C3B-6CB5-460B-9C89-07297BD94DEA}">
+															<Child Name="ToolbarButtonWrapper" Owner="{16901ACC-19E7-497C-B774-5AEC91F9EA7A}">
+																<Child Name="Run" Owner="{563929CF-409A-4F48-B629-29245568C9D6}" />
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="CommonUiBuilder_TopBar" Owner="{C3B036F9-28D6-43EC-97AA-7DD0B776297A}">
+									<Child Name="Panel" Owner="{5C52B96A-5359-4C6C-8E8E-0E204B751B60}">
+										<Child Name="Panel" Owner="{37E9E0A7-E407-4372-979F-61E8819CC835}">
+											<Child Name="Button" Owner="{69AE2710-1755-4E43-B6F2-30F12297B05E}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Dialog" Owner="{BBEDE549-CC50-4804-86B2-A9626FF7902D}">
+				<Child Name="RootPane" Owner="{75875E59-5D23-479B-A02A-6DAEF47FC22B}">
+					<Child Name="null_layeredPane" Owner="{9F5FB363-C965-4343-B4E5-EED40D905AC3}">
+						<Child Name="null_contentPane" Owner="{EE87E0C4-B68C-4C88-A378-390001ED01DB}">
+							<Child Name="Panel" Owner="{C3A08F32-E8AF-4F08-8D70-C8E7B93EF6D1}">
+								<Child Name="BrowserView" Owner="{4FBD8ED0-5CD9-41FB-B50D-15741D0065DD}">
+									<Child Name="Graphics2dRenderWidget" Owner="{52F72837-884A-431E-A485-E55123CC46EC}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="WizardDialog" Owner="{AEA0D3AA-F02A-4FA9-88F4-302B2979AD54}">
+				<Child Name="RootPane" Owner="{96264459-65C7-48F4-B51E-7427AFE4DDE0}">
+					<Child Name="null_layeredPane" Owner="{75ADC24D-6897-456B-8980-61EB2B4A8D56}">
+						<Child Name="null_contentPane" Owner="{83CBBF90-26A7-4962-846D-9435E9BFE6EC}">
+							<Child Name="Panel" Owner="{C395669B-07E0-4C50-899D-8D46196F9C73}">
+								<Child Name="Panel" Owner="{C04D749A-22EF-490F-9313-2A944698956E}">
+									<Child Name="Panel" Owner="{B30723DF-E5CA-445F-A654-74F7BFA8D5F1}">
+										<Child Name="SelectProjectPanel" Owner="{DAAA8772-DA9C-4FB0-8539-B3310E594B2C}">
+											<Child Name="Panel" Owner="{2BF652C2-D099-468A-822F-DD3CBB427DBA}">
+												<Child Name="Panel" Owner="{5642487C-8091-4904-B5E8-A71D7B1EA684}">
+													<Child Name="ComboBox" Owner="{6BEDB5D4-59BE-4A1F-9CB0-CE55BB7CE67F}" />
+												</Child>
+											</Child>
+										</Child>
+										<Child Name="Button" Owner="{9E66C200-5302-4F82-940B-1568ADB35E95}" />
+										<Child Name="AssertionsPanel" Owner="{CECF897B-01DF-42BE-900D-383AFDC609AD}">
+											<Child Name="Panel" Owner="{BA543BCA-E5F5-4CDD-8C76-140CAC671709}">
+												<Child Name="Panel" Owner="{2D78FAFA-2FAF-4882-92B9-234FB30A3D3A}">
+													<Child Name="Panel" Owner="{AC6C72DA-FFCD-479F-9D47-64AA1CAFD708}">
+														<Child Name="Panel" Owner="{481CB056-6F48-416C-ABD1-293D814E6B1B}">
+															<Child Name="Panel" Owner="{1774D1C8-DF2F-47B3-8E4C-F21212C88743}">
+																<Child Name="CheckBox" Owner="{C84ED539-1DF8-4C6D-9B8C-84FDE5407AAA}" />
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="SingleTestCaseRunOrDataSourceDialog" Owner="{99567B7C-5850-4A0B-8B3C-F0B1CD5A6D02}" />
+		</Child>
+		<Child Name="Orders" Owner="{D68552B5-74C8-464B-8378-7A71782F1F9A}">
+			<Child Name="MainForm" Owner="{E2D815E1-9F5E-441D-B9E9-461ED49151B1}" />
+			<Child Name="OrderForm" Owner="{4FC046FD-CDEF-430A-B2A0-A7A0E17BA2A6}">
+				<Child Name="Group" Owner="{1E6C0F32-5BE4-4272-BEDE-1B18F9226FC0}">
+					<Child Name="Customer" Owner="{9DD57E92-EC78-439A-9462-BAB7DF2280AD}" />
+					<Child Name="Street" Owner="{9F43DE3F-2D5A-48E9-B0AF-D27C81FF095A}" />
+					<Child Name="City" Owner="{D8ED6232-C32C-4B59-9BF1-3B39CC479A71}" />
+					<Child Name="State" Owner="{04C80D38-FBFE-4663-8A7E-F9F8D51A4D56}" />
+					<Child Name="Zip" Owner="{5AF6F889-FF00-4974-B05E-14DDCAE4771F}" />
+					<Child Name="CardNo" Owner="{6BF27099-1992-4A38-9644-5B61B57AAE37}" />
+					<Child Name="ProductNames" Owner="{E9EFD1D1-12CF-44A4-BDCC-B045509F8683}" />
+					<Child Name="Quantity" Owner="{BD28ED5E-0DE3-4269-8698-614CFFE3E5F1}" />
+					<Child Name="Price" Owner="{749779C0-B313-4003-BA3C-1837990E60B2}" />
+					<Child Name="Discount" Owner="{11C48021-A117-4E99-B0CC-1C80C2B625FB}" />
+					<Child Name="Date" Owner="{C3BD7441-1E5F-43F6-AD7C-9D74A7AF0B4E}" />
+					<Child Name="MasterCard" Owner="{BBF69BC9-8341-4D7B-AB62-0C72C26E58F4}" />
+					<Child Name="ExpDate" Owner="{298215DF-4E7E-4708-AB9C-540F8B9C2247}" />
+				</Child>
+				<Child Name="ButtonOK" Owner="{2EC6766D-9CC3-4813-A4C1-DB2118610696}" />
+			</Child>
+			<Child Name="dlgConfirmation" Owner="{39D3A54D-ADD8-4D7B-A57F-67A4A1DFBDFF}">
+				<Child Name="btnNo" Owner="{9B91A154-9137-4152-A5B5-31681EC6FA96}" />
+			</Child>
+			<Child Name="dlgSaveAs" Owner="{51137E07-828A-4CFB-922D-1E29A6B56772}">
+				<Child Name="btnSave" Owner="{7389A2D7-AB34-4FEA-938A-D4586BE2467B}" />
+				<Child Name="DUIViewWndClassName" Owner="{8F2FEC9A-F88A-433D-A650-033963256B35}">
+					<Child Name="Explorer_Pane" Owner="{14590068-E7F6-4E88-91FF-5F9EC0CEE71F}">
+						<Child Name="FloatNotifySink" Owner="{003CCA98-EA01-4353-8C08-AA9E0FCECF9D}">
+							<Child Name="ComboBox" Owner="{819D72B9-3A5A-464B-A948-E651E0BE5327}">
+								<Child Name="Edit" Owner="{C68AE330-A4A5-4E6F-B4CD-99EF79BA0E48}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="dlgConfirmSaveAs" Owner="{7A6295DD-5AD4-485A-9850-B00D07B44268}">
+				<Child Name="Confirm_Save_As" Owner="{FA1C1025-74D6-43C1-9F0B-C4B10ABE070C}">
+					<Child Name="CtrlNotifySink" Owner="{C04EB3BD-6048-4F53-8E2B-B628415930BA}">
+						<Child Name="btnYes" Owner="{423EB26D-57B7-4CD5-8D76-3D1CB15FDB6E}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndWindowsForms10Window8app0141b42ar8ad1" Owner="{5291410C-DECD-4D97-BBD0-64B97AE962A0}" />
+		</Child>
+	</LogicalNodes>
+</Root>
